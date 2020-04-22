@@ -6,7 +6,7 @@ A Python Project of Real-time Communiaction
 
 **环境介绍**
 
-- Python3.6
+- Python3.7
 - Pyaudio
 - CPU i5-6200U(笔记本)
 
